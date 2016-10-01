@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/three_b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/three_b1" />
+
+    <Button
+        android:id="@+id/three_b2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/three_b1"
+        android:text="@string/three_b2" />
+
+    <Button
+        android:id="@+id/three_b3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/three_b2"
+        android:text="@string/three_b3" />
+
+    <Button
+        android:id="@+id/three_b4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/three_b3"
+        android:text="@string/three_b4" />
+
+    <Button
+        android:id="@+id/three_b5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/three_b4"
+        android:text="@string/three_b5" />
+
+    <Button
+        android:id="@+id/three_b6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/three_b5"
+        android:text="@string/three_b6" />
+
+    <Button
+        android:id="@+id/three_b7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/three_b6"
+        android:text="@string/three_b7" />
+
+</RelativeLayout>

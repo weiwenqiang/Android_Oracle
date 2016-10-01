@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">功能汇总</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="test">测试</string>
+    
+    <string name="one">one</string>
+    <string name="one_b1">文字图片</string>
+    <string name="one_b2">点击事件</string>
+    <string name="one_b3">相对布局</string>
+    <string name="one_b4">设置文字图片</string>
+    <string name="one_nm">匿名内部类</string>
+    <string name="one_nb">内部类</string>
+    <string name="one_jk">继承接口</string>
+    <string name="one_xml">XML配置</string>
+    <string name="one_centerHV">水平垂直居中</string>
+    <string name="one_alignLT">左上贴边</string>
+    <string name="one_alignRT">右上贴边</string>
+    <string name="one_alignLB">左下贴边</string>
+    <string name="one_alignRB">右下贴边</string>
+    <string name="one_vpr">垂直距右20</string>
+    <string name="one_hpb">水平距下40</string>
+    <string name="one_below1">相对vt1向下30</string>
+    <string name="one_below2">相对两控件位置</string>
+    <string name="one_below3">相对控件父容器</string>
+    <string name="one_ttv1">变换文字</string>
+    <string name="one_ttv2">变换图片</string>
+    <string name="one_ttv3">隐藏按钮</string>
+    <string name="one_ttv4">初始文字</string>
+    <string name="one_fh">返回</string>
+    
+    
+    <string name="two">two</string>
+    <string name="two_edituser">请输入用户名</string>
+    <string name="two_editpass">请输入密码</string>
+    <string name="two_editbg">自定义样式</string>
+    <string name="two_btnlogin">登录</string>
+    <string name="two_item1">关机！</string>
+    <string name="two_item2">锁定屏幕和键盘</string>
+    <string name="two_item3">标准</string>
+    <string name="two_item4">无声</string>
+    <string name="two_item5">会议</string>
+    <string name="two_item6">户外</string>
+    <string name="two_item7">寻呼机</string>
+    <string name="two_item8">离线</string>
+    <string name="two_item9">锁闭手机</string>
+    <string name="two_item10">移除E：存储卡</string>
+    <string name="two_b1">Edit文本框</string>
+    <string name="two_b2">Menu菜单</string>
+    <string name="two_b3">权重</string>
+    <string name="two_b4">Intent跳转</string>
+    <string name="two_weight1">权重1</string>
+    <string name="two_weight2">权重3</string>
+    <string name="two_secondedit">添加字符</string>
+    <string name="two_fh">返回</string>
+    <string name="two_second">S</string>
+    <string name="two_third">T</string>
+    <string name="two_intentedit">初始字符</string>
+    
+    
+    <string name="three">three</string>
+    <string name="three_radiobtn1">男</string>
+	<string name="three_radiobtn2">女</string>
+    <string name="three_sex">性别：</string>
+    <string name="three_b1">单选框</string>
+    <string name="three_b2">多选框</string>
+    <string name="three_b3">List视图</string>
+    <string name="three_b4">Grid视图</string>
+    <string name="three_b5">对话框</string>
+    <string name="three_b6">item点击监听</string>
+    <string name="three_b7">item长按监听</string>
+    <string name="three_checkBox1">物理</string>
+    <string name="three_checkBox2">化学</string>
+    <string name="three_checkBox3">地理</string>
+    <string name="three_checkBox4">政治</string>
+    <string name="three_checkBox5">军事</string>
+    <string name="three_hobby">兴趣爱好</string>
+    <string name="three_choice">选择</string>
+    <string name="three_name">姓名：</string>
+    <string name="three_age">年龄：</string>
+    <string name="three_phone">电话：</string>
+    <string name="three_detail">详情：</string>
+    <string name="three_name_string">魏文强</string>
+    <string name="three_age_string">22</string>
+    <string name="three_phone_string">13931051110</string>
+    <string name="three_detail_string"></string>
+    <string name="three_name_hint">请输入姓名</string>
+    <string name="three_age_hint">请输入年龄</string>
+    <string name="three_phone_hint">请输入电话</string>
+    <string name="three_detail_hint">请输入详情</string>
+    <string name="three_btnback">放弃</string>
+    <string name="three_btninsert">添加</string>
+    <string name="three_gridtext">分类信息</string>
+    <string name="three_alert">简单对话框</string>
+    
+    
+    
+    <string name="four">four</string>
+    <string name="four_b1">自定义Toast事件</string>
+    <string name="four_b2">自定义View</string>
+    <string name="four_b3">进度条</string>
+    <string name="four_b4">Slding侧滑菜单</string>
+    <string name="four_b5">滚动时不加载</string>
+    <string name="four_toast">Toast显示时间控制</string>
+    <string name="four_sliding1">关机！</string>
+    <string name="four_sliding2">锁定屏幕和键盘</string>
+    <string name="four_sliding3">标准</string>
+    <string name="four_sliding4">无声</string>
+    
+    
+    
+    <string name="five">five</string>
+    <string name="five_itemtext1">阿斯蒂芬</string>
+    <string name="five_itemtext2">颐和园名人文化公园</string>
+    <string name="five_b1">上拉刷新下拉加载</string>
+    <string name="five_b2">滑动中不加载</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松开后刷新</string>
+    <string name="pull_to_refresh_refreshing_label">正在刷新\u2026</string>
+    <string name="pull_to_refresh_footer_release_label">松开后加载</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">正在加载中\u2026</string>
+    
+    
+    <string name="six">six</string>
+    <string name="six_b1">Fragment翻页</string>
+    <string name="six_b2">Pager翻页</string>
+    
+
+    
+    <string name="seven">seven</string>
+    <string name="seven_save">保存数据</string>
+    <string name="seven_read">读取数据</string>
+    <string name="seven_b1">数据存取</string>
+    <string name="seven_b2">传值数据存取</string>
+    <string name="seven_sid_string">ID:</string>
+    <string name="seven_name_string">姓名:</string>
+    <string name="seven_age_string">年龄:</string>
+    <string name="seven_sid">12306</string>
+    <string name="seven_name">中国铁道部</string>
+    <string name="seven_age">50</string>
+    
+    
+    
+    
+    <string name="eight">eight</string>
+    <string name="eight_b1">IO流存取</string>
+    <string name="eight_b2">传值文件流存取</string>
+    <string name="eight_save">IO流保存</string>
+    <string name="eight_read">IO流读取</string>
+    <string name="eight_sid_string">ID:</string>
+    <string name="eight_name_string">姓名:</string>
+    <string name="eight_age_string">年龄:</string>
+    <string name="eight_sid">12306</string>
+    <string name="eight_name">中国铁道部</string>
+    <string name="eight_age">50</string>
+    
+    
+    
+    
+    <string name="nine">nine</string>
+    <string name="nine_b1">SD卡文件存取</string>
+    <string name="nine_b2">传值SD卡文件存取</string>
+    <string name="nine_save">文件流保存</string>
+    <string name="nine_read">文件流读取</string>
+    <string name="nine_sid_string">ID:</string>
+    <string name="nine_name_string">姓名:</string>
+    <string name="nine_age_string">年龄:</string>
+    <string name="nine_sid">12306</string>
+    <string name="nine_name">中国铁道部</string>
+    <string name="nine_age">50</string>
+    
+    
+    
+    
+    <string name="ten">ten</string>
+    <string name="ten_lifecycle0">Activity生命周期</string>
+    <string name="ten_lifecycle1">创建---onCreate</string>
+    <string name="ten_lifecycle2">开始---onStart</string>
+    <string name="ten_lifecycle3">重新开始---onResume</string>
+    <string name="ten_lifecycle4">暂停---onPause</string>
+    <string name="ten_lifecycle5">停止---onStop</string>
+    <string name="ten_lifecycle6">销毁---onDestroy</string>
+    <string name="ten_lifecycle7">重新启动---onRestart</string>
+    <string name="ten_sid_string">ID:</string>
+    <string name="ten_name_string">姓名:</string>
+    <string name="ten_age_string">年龄:</string>
+    <string name="ten_sid">12306</string>
+    <string name="ten_name">中国铁道部</string>
+    <string name="ten_age">50</string>
+    <string name="ten_save">保存</string>
+    <string name="ten_read">读取</string>
+    <string name="ten_b1">生命周期</string>
+    <string name="ten_b2">传值SQL</string>
+    <string name="ten_insert">添加</string>
+    <string name="ten_select">查询</string>
+    <string name="ten_update">修改</string>
+    <string name="ten_delete">删除</string>
+    
+    
+    <string name="eleven">eleven</string>
+    <string name="eleven_create">创建数据库</string>
+    <string name="eleven_insert">添加数据</string>
+    <string name="eleven_update">修改数据</string>
+    <string name="eleven_select">查询数据</string>
+    <string name="eleven_delete">删除数据</string>
+    <string name="eleven_b1">LitePal数据</string>
+    <string name="eleven_b2">传值LitePal</string>
+    <string name="eleven_sid_string">ID:</string>
+    <string name="eleven_name_string">姓名:</string>
+    <string name="eleven_age_string">年龄:</string>
+    <string name="eleven_sid">12306</string>
+    <string name="eleven_name">中国铁道部</string>
+    <string name="eleven_age">50</string>
+    <string name="eleven_save">保存</string>
+    <string name="eleven_read">读取</string>
+    
+    
+    
+    <string name="twelve">twelve</string>
+    <string name="twelve_request">请求网络资源</string>
+    <string name="twelve_b1">网络请求</string>
+    
+    
+    
+    <string name="thirteen">thirteen</string>
+    <string name="thirteen_b1">ImageLoad测试1</string>
+    <string name="thirteen_b2">ImageLoad测试2</string>
+    <string name="thirteen_b3">ImageLoad测试3</string>
+    <string name="thirteen_b4">ImageLoad测试4</string>
+    <string name="thirteen_b5">ImageLoad测试5</string>
+    <string name="thirteen_b6">ImageLoad测试6</string>
+    <string name="thirteen_b7">ImageLoad测试7</string>
+    <string name="thirteen_b8">ImageLoad测试8</string>
+    <string name="thirteen_request">ImageLoad请求</string>
+    
+    
+    
+    <string name="fourteen">fourteen</string>
+    <string name="fourteen_b1">解析简单Json</string>
+    <string name="fourteen_b2">解析2级Json</string>
+    <string name="fourteen_b3">解析NewsJson</string>
+    <string name="fourteen_parse">解析</string>
+	<string name="fourteen_showjson">解析结果</string>
+    
+    
+    
+    <string name="fifteen">fifteen</string>
+    <string name="fifteen_xmlparse">解析XML</string>
+    <string name="fifteen_showxml">解析结果</string>
+    <string name="fifteen_b1">XML解析</string>
+    
+    
+    
+    <string name="sixteen">sixteen</string>
+    <string name="sixteen_asynctext">异步请求</string>
+    <string name="sixteen_b1">异步请求</string>
+
+</resources>

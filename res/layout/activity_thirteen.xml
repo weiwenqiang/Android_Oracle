@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/thirteen_b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b1" />
+
+    <Button
+        android:id="@+id/thirteen_b2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b2" />
+
+    <Button
+        android:id="@+id/thirteen_b3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b3" />
+
+    <Button
+        android:id="@+id/thirteen_b4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b4" />
+
+    <Button
+        android:id="@+id/thirteen_b5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b5" />
+
+    <Button
+        android:id="@+id/thirteen_b6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b6" />
+
+    <Button
+        android:id="@+id/thirteen_b7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b7" />
+
+    <Button
+        android:id="@+id/thirteen_b8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirteen_b8" />
+
+</LinearLayout>

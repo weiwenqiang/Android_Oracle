@@ -1,0 +1,36 @@
+﻿{"data":
+	[
+		{"groups":
+			[
+				{"drscription":"我们是最优秀的android开发组 0","name":"android开发部0"},
+				{"drscription":"我们是最优秀的android开发组 1","name":"android开发部1"},
+				{"drscription":"我们是最优秀的android开发组 2","name":"android开发部2"},
+				{"drscription":"我们是最优秀的android开发组 3","name":"android开发部3"},
+				{"drscription":"我们是最优秀的android开发组 4","name":"android开发部4"},
+				{"drscription":"我们是最优秀的android开发组 5","name":"android开发部5"},
+				{"drscription":"我们是最优秀的android开发组 6","name":"android开发部6"},
+				{"drscription":"我们是最优秀的android开发组 7","name":"android开发部7"}
+																						],"name":"公司名称0"},
+		{"groups":
+			[
+				{"drscription":"我们是最优秀的android开发组 0","name":"android开发部0"},
+				{"drscription":"我们是最优秀的android开发组 1","name":"android开发部1"},
+				{"drscription":"我们是最优秀的android开发组 2","name":"android开发部2"},
+				{"drscription":"我们是最优秀的android开发组 3","name":"android开发部3"},
+				{"drscription":"我们是最优秀的android开发组 4","name":"android开发部4"},
+				{"drscription":"我们是最优秀的android开发组 5","name":"android开发部5"},
+				{"drscription":"我们是最优秀的android开发组 6","name":"android开发部6"},
+				{"drscription":"我们是最优秀的android开发组 7","name":"android开发部7"}
+																						],"name":"公司名称1"},
+		{"groups":
+			[
+				{"drscription":"我们是最优秀的android开发组 0","name":"android开发部0"},
+				{"drscription":"我们是最优秀的android开发组 1","name":"android开发部1"},
+				{"drscription":"我们是最优秀的android开发组 2","name":"android开发部2"},
+				{"drscription":"我们是最优秀的android开发组 3","name":"android开发部3"},
+				{"drscription":"我们是最优秀的android开发组 4","name":"android开发部4"},
+				{"drscription":"我们是最优秀的android开发组 5","name":"android开发部5"},
+				{"drscription":"我们是最优秀的android开发组 6","name":"android开发部6"},
+				{"drscription":"我们是最优秀的android开发组 7","name":"android开发部7"}
+																						],"name":"公司名称2"},
+		{"groups":[{"drscription":"我们是最优秀的android开发组 0","name":"android开发部0"},{"drscription":"我们是最优秀的android开发组 1","name":"android开发部1"},{"drscription":"我们是最优秀的android开发组 2","name":"android开发部2"},{"drscription":"我们是最优秀的android开发组 3","name":"android开发部3"},{"drscription":"我们是最优秀的android开发组 4","name":"android开发部4"},{"drscription":"我们是最优秀的android开发组 5","name":"android开发部5"},{"drscription":"我们是最优秀的android开发组 6","name":"android开发部6"},{"drscription":"我们是最优秀的android开发组 7","name":"android开发部7"}],"name":"公司名称3"},{"groups":[{"drscription":"我们是最优秀的android开发组 0","name":"android开发部0"},{"drscription":"我们是最优秀的android开发组 1","name":"android开发部1"},{"drscription":"我们是最优秀的android开发组 2","name":"android开发部2"},{"drscription":"我们是最优秀的android开发组 3","name":"android开发部3"},{"drscription":"我们是最优秀的android开发组 4","name":"android开发部4"},{"drscription":"我们是最优秀的android开发组 5","name":"android开发部5"},{"drscription":"我们是最优秀的android开发组 6","name":"android开发部6"},{"drscription":"我们是最优秀的android开发组 7","name":"android开发部7"}],"name":"公司名称4"}]}

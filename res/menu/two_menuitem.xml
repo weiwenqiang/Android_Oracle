@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/two_item1"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item1"/>
+    <item
+        android:id="@+id/two_item2"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item2"/>
+    <item
+        android:id="@+id/two_item3"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item3"/>
+    <item
+        android:id="@+id/two_item4"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item4"/>
+    <item
+        android:id="@+id/two_item5"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item5"/>
+    <item
+        android:id="@+id/two_item6"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item6"/>
+    <item
+        android:id="@+id/two_item7"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item7"/>
+    <item
+        android:id="@+id/two_item8"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item8"/>
+    <item
+        android:id="@+id/two_item9"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item9"/>
+    <item
+        android:id="@+id/two_item10"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/two_item10"/>
+
+</menu>

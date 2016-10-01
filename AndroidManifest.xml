@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android_oracle"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <instrumentation android:name="android.test.InstrumentationTestRunner" 
+        android:targetPackage="com.example.android_oracle"></instrumentation>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:name="com.example.oracle20.eleven.ElevenMyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <uses-library android:name="android.test.runner"/>
+        
+        <activity
+            android:name="com.example.android_oracle.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.oracle08.one.ActivityOne"
+            android:label="@string/one" />
+        <activity
+            android:name="com.example.oracle08.one.OneTextImage"
+            android:label="@string/one_b1" />
+        <activity
+            android:name="com.example.oracle08.one.OneOnClick"
+            android:label="@string/one_b2" />
+        <activity
+            android:name="com.example.oracle08.one.OneRelativeLayout"
+            android:label="@string/one_b3" />
+        <activity
+            android:name="com.example.oracle08.one.OneTask"
+            android:label="@string/one_b4" />
+        <activity
+            android:name="com.example.oracle09.two.ActivityTwo"
+            android:label="@string/two" />
+        <activity
+            android:name="com.example.oracle09.two.TwoEdit"
+            android:label="@string/two_b1" />
+        <activity
+            android:name="com.example.oracle09.two.TwoMenu"
+            android:label="@string/two_b2" />
+        <activity
+            android:name="com.example.oracle09.two.TwoWeight"
+            android:label="@string/two_b3" />
+        <activity
+            android:name="com.example.oracle09.two.TwoIntent"
+            android:label="@string/two_b4" />
+        <activity
+            android:name="com.example.oracle09.two.TwoIntentThird"
+            android:label="@string/two_b4" />
+        <activity
+            android:name="com.example.oracle09.two.TwoIntentSecond"
+            android:label="@string/two_b4" />
+        
+        <activity
+            android:name="com.example.oracle10.three.ActivityThree"
+            android:label="@string/three" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeRadio"
+            android:label="@string/three_b1" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeCheck"
+            android:label="@string/three_b2" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeListView"
+            android:label="@string/three_b3" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeGridView"
+            android:label="@string/three_b4" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeAlertDialog"
+            android:label="@string/three_b5" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeItemClick"
+            android:label="@string/three_b6" />
+        <activity
+            android:name="com.example.oracle10.three.ThreeItemLongClick"
+            android:label="@string/three_b7" />
+        
+        
+        <activity android:name="com.example.oracle12.four.ActivityFour"
+            android:label="@string/four"/>
+        <activity android:name="com.example.oracle12.four.FourToast"
+            android:label="@string/four_b1"/>
+        <activity android:name="com.example.oracle12.four.FourView"
+            android:label="@string/four_b2"/>
+        <activity android:name="com.example.oracle12.four.FourProgressBar"
+            android:label="@string/four_b3"/>
+        <activity android:name="com.example.oracle12.four.FourSlidingMenu"
+            android:label="@string/four_b4"/>
+        <activity android:name="com.example.oracle12.four.FourListScroll"
+            android:label="@string/four_b5"/>
+        
+        
+        <activity android:name="com.example.oracle13.five.ActivityFive"
+            android:label="@string/five"/>
+        <activity android:name="com.example.oracle13.five.FiveListRefresh"
+            android:label="@string/five_b1"/>
+        <activity android:name="com.example.oracle13.five.FiveListLoad"
+            android:label="@string/five_b2"/>
+        
+        
+        <activity 
+            android:name="com.example.oracle14.six.ActivitySix"
+            android:label="@string/six" />
+        <activity 
+            android:name="com.example.oracle14.six.SixFragment"
+            android:label="@string/six_b1" />
+        <activity 
+            android:name="com.example.oracle14.six.SixFragmentPager"
+            android:label="@string/six_b2" />
+        
+        
+        <activity android:name="com.example.oracle15.seven.ActivitySeven"
+            android:label="@string/seven" />
+        <activity android:name="com.example.oracle15.seven.SevenShared"
+            android:label="@string/seven_b1" />
+        <activity android:name="com.example.oracle15.seven.SevenSaveRead"
+            android:label="@string/seven_b2" />
+        
+        
+        
+        <activity 
+            android:name="com.example.oracle16.eight.ActivityEight"
+            android:label="@string/eight" />
+        <activity 
+            android:name="com.example.oracle16.eight.EightFileCache"
+            android:label="@string/eight_b1" />
+        <activity 
+            android:name="com.example.oracle16.eight.EightFileDyIO"
+            android:label="@string/eight_b2" />
+        
+        
+        
+        <activity 
+            android:name="com.example.oracle17.nine.ActivityNine"
+            android:label="@string/nine" />
+        <activity 
+            android:name="com.example.oracle17.nine.NineSDCardWritRead"
+            android:label="@string/nine_b1" />
+        <activity 
+            android:name="com.example.oracle17.nine.NineSDCardDy"
+            android:label="@string/nine_b2" />
+        
+        
+        
+        <activity 
+            android:name="com.example.oracle19.ten.ActivityTen"
+            android:label="@string/ten" />
+        <activity 
+            android:name="com.example.oracle19.ten.TenLifecycle"
+            android:label="@string/ten_b1" />
+        <activity 
+            android:name="com.example.oracle19.ten.TenSQLdy"
+            android:label="@string/ten_b2" />
+        
+        
+        
+        <activity  
+            android:name="com.example.oracle20.eleven.ActivityEleven"
+            android:label="@string/eleven" />
+        <activity
+            android:name="com.example.oracle20.eleven.ElevenLitepal"
+            android:label="@string/eleven_b1" />
+        <activity 
+            android:name="com.example.oracle20.eleven.ElevenLitepalDy"
+            android:label="@string/eleven_b2" />
+        
+        
+        <activity  
+            android:name="com.example.oracle21.twelve.ActivityTwelve"
+            android:label="@string/twelve" />
+        <activity
+            android:name="com.example.oracle21.twelve.TwelveNetwordRequest"
+            android:label="@string/twelve_b1" />
+        
+        
+        
+        <activity 
+            android:name="com.example.oracle22.thirteen.ActivityThirteen"
+            android:label="@string/thirteen" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad1"
+            android:label="@string/thirteen_b1" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad2"
+            android:label="@string/thirteen_b2" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad3"
+            android:label="@string/thirteen_b3" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad4"
+            android:label="@string/thirteen_b4" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad5"
+            android:label="@string/thirteen_b5" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad6"
+            android:label="@string/thirteen_b6" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad7"
+            android:label="@string/thirteen_b7" />
+        <activity 
+            android:name="com.example.oracle22.thirteen.TestImageLoad8"
+            android:label="@string/thirteen_b8" />
+        
+        
+        
+        <activity 
+            android:name="com.example.oracle23.fourteen.ActivityFourteen"
+            android:label="@string/fourteen" />
+        <activity 
+            android:name="com.example.oracle23.fourteen.FourteenEasyJson"
+            android:label="@string/fourteen_b1" />
+        <activity 
+            android:name="com.example.oracle23.fourteen.FourteenThreeJson"
+            android:label="@string/fourteen_b2" />
+        <activity 
+            android:name="com.example.oracle23.fourteen.FourteenNewsJson"
+            android:label="@string/fourteen_b3" />
+        
+        
+        
+        <activity 
+            android:name="com.example.oracle24.fifteen.ActivityFifteen"
+            android:label="@string/fifteen" />
+        <activity 
+            android:name="com.example.oracle24.fifteen.FifteenXmlParse"
+            android:label="@string/fifteen_b1" />
+        
+        
+        <activity 
+            android:name="com.example.oracle26.sixteen.ActivitySixteen"
+            android:label="@string/sixteen" />
+        <activity 
+            android:name="com.example.oracle26.sixteen.SixteenAsyncTask"
+            android:label="@string/sixteen_b1" />
+    </application>
+
+</manifest>

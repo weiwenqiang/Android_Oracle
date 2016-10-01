@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/one_tvnm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_nm"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/one_tvnb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_nb"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/one_tvjk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_jk"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/one_tvxml"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="xmlOnClick"
+        android:text="@string/one_xml"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/one_bnm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_nm" />
+
+    <Button
+        android:id="@+id/one_bnb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_nb" />
+
+    <Button
+        android:id="@+id/one_bjk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/one_jk" />
+
+    <Button
+        android:id="@+id/one_bxml"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="xmlOnClick"
+        android:text="@string/one_xml" />
+
+</LinearLayout>

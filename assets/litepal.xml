@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litepal>
+    <dbname value="NewsAndPerson"></dbname>
+    <version value="1"></version>
+    <list>
+        <mapping class="com.example.oracle20.eleven.ElevenNews"></mapping>
+        <mapping class="com.example.oracle20.eleven.ElevenPerson"></mapping>
+    </list>
+</litepal>

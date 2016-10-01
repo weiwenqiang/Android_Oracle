@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.oracle13.five.FivePullToRefreshView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/five_pull_refresh_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</com.example.oracle13.five.FivePullToRefreshView>

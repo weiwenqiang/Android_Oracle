@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/ten_lifecycle0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/ten_lifecycle0"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle1"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle3"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle4"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle5"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle6"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ten_lifecycle7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ten_lifecycle7"
+        android:textSize="20sp" />
+
+</LinearLayout>
